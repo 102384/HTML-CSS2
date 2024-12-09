@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="oefening1.css">
 </head>
 <body>
-    
+    <div class="div1"></div><p>dit is een test lorem ipsum nog wat</p></div>
+    <div class="div2"></div><p>dit is een test lorem ipsum nog wat</p></div>
 </body>
 </html>
